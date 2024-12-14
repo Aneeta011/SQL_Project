@@ -1,1 +1,1 @@
-# SQL_Project
+# Walmart_sales_Analysis_SQL_Project
